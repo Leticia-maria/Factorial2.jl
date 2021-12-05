@@ -4,7 +4,7 @@ The double factorial is the multiplication of all integers between 1 and n that 
 
 
 ```julia
-julia > Pkg.add("https://github.com/Leticia-maria/Factorial2.jl.git")
+pkg> add https://github.com/Leticia-maria/Factorial2.jl.git
 ```
 ```julia
 julia > using Factorial2
